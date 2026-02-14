@@ -46,8 +46,8 @@ pip install matplotlib
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Hassanmahmood4/Genetic-AI.git
+cd Genetic-AI
 
 Run the program:
 
