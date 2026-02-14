@@ -98,7 +98,6 @@ tournament_k	Tournament size for selection
 alpha	Weight for arithmetic crossover
 seed	Random seed for reproducibility
 
-
 🛠️ Customization Ideas
 	•	Extend to multi-dimensional optimization
 	•	Add different selection strategies (roulette wheel, rank selection)
